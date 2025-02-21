@@ -1,0 +1,28 @@
+.signup{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 63px;
+}
+.cross-button{
+    color:black; 
+    cursor: pointer;
+font-size: 50px;
+padding: 15px;
+
+}
+.wraper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: auto;
+}
+.input{
+    width: 100%;
+background-color: #025955;
+outline: none;
+border-style: none;
+padding: 16px;
+color: white;
+margin-bottom: 20px;
+}

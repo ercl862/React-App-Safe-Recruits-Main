@@ -1,0 +1,15 @@
+.mobile-nav-menu{
+    background: #025955;
+    height: 100vh;
+   
+}
+.cross-icon-container{
+    display: flex;
+justify-content: end;
+}
+.cross-icon{
+    color: white;
+    cursor: pointer;
+font-size: 35px;
+padding: 15px;
+}

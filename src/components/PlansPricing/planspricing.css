@@ -1,0 +1,17 @@
+.btn-bakhome{
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 200px;
+    color: #025955;
+}
+.btn-bakhome:hover{
+    background-color:#025955;
+    border: 1px solid white;
+    color: white;
+}
